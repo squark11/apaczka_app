@@ -1,0 +1,14 @@
+C:\Users\bartek\source\repos\apaczka2\apaczka2\bin\Debug\net8.0\apaczka2.exe
+C:\Users\bartek\source\repos\apaczka2\apaczka2\bin\Debug\net8.0\apaczka2.deps.json
+C:\Users\bartek\source\repos\apaczka2\apaczka2\bin\Debug\net8.0\apaczka2.runtimeconfig.json
+C:\Users\bartek\source\repos\apaczka2\apaczka2\bin\Debug\net8.0\apaczka2.dll
+C:\Users\bartek\source\repos\apaczka2\apaczka2\bin\Debug\net8.0\apaczka2.pdb
+C:\Users\bartek\source\repos\apaczka2\apaczka2\obj\Debug\net8.0\apaczka2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bartek\source\repos\apaczka2\apaczka2\obj\Debug\net8.0\apaczka2.AssemblyInfoInputs.cache
+C:\Users\bartek\source\repos\apaczka2\apaczka2\obj\Debug\net8.0\apaczka2.AssemblyInfo.cs
+C:\Users\bartek\source\repos\apaczka2\apaczka2\obj\Debug\net8.0\apaczka2.csproj.CoreCompileInputs.cache
+C:\Users\bartek\source\repos\apaczka2\apaczka2\obj\Debug\net8.0\apaczka2.dll
+C:\Users\bartek\source\repos\apaczka2\apaczka2\obj\Debug\net8.0\refint\apaczka2.dll
+C:\Users\bartek\source\repos\apaczka2\apaczka2\obj\Debug\net8.0\apaczka2.pdb
+C:\Users\bartek\source\repos\apaczka2\apaczka2\obj\Debug\net8.0\apaczka2.genruntimeconfig.cache
+C:\Users\bartek\source\repos\apaczka2\apaczka2\obj\Debug\net8.0\ref\apaczka2.dll
